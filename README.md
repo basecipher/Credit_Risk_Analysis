@@ -15,10 +15,10 @@ We are to properly define the purposese, ensure the balanced accuracy score and 
 * Results
 Data Rollup
 Please find results of 6 different models employed
-![summary](https://github.com/basecipher/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+![summary](https://github.com/basecipher/Credit_Risk_Analysis/blob/main/Images/summary.png)
 
 The top 10 features contributing to the model are shown below:
-![top 10](https://github.com/basecipher/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+![top 10](https://github.com/basecipher/Credit_Risk_Analysis/blob/main/Images/top%2010%20contributing%20features.png)
 
 * Summary
 The results are to be summarized with no specific recommendation on using the a particular model as all 6 models are good at predicting low risk loans.  The issue is that none are extremely effective at predicting high risk loans which was the purpose of this development process.
