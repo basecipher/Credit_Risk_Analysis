@@ -13,11 +13,10 @@ We used the included link to download the Module-17-Challenge-Resources.zip.  Th
 We are to properly define the purposese, ensure the balanced accuracy score and the precision and recall scores for ALL SIX algorithms are described.  
 
 ## Results
-Data Rollup
-Please find results of 6 different models employed
+### Please find results of 6 different models employed
 ![summary](https://github.com/basecipher/Credit_Risk_Analysis/blob/main/Images/summary.png)
 
-The top 10 features contributing to the model are shown below:
+### The top 10 features contributing to the model are shown below:
 ![top 10](https://github.com/basecipher/Credit_Risk_Analysis/blob/main/Images/top%2010%20contributing%20features.png)
 
 ## Summary
